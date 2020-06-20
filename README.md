@@ -1,2 +1,4 @@
 # tennis-stats-provider
-Machine Learning model for providing tennis match stats
+Repo for tying out Machine Learning and Python.
+# Based on
+https://github.com/rwightman/posenet-python
